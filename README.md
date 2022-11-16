@@ -22,7 +22,9 @@
 
 About me:
 
-- 👩🏼‍💻 I am currently working with HTML, CSS, JavaScript, TypeScript and ReactJS;
+- 💻 I am currently working with HTML, CSS, JavaScript, TypeScript and ReactJS;
 - 📚 I’m currently learning Next.js and Node.js; 
 - 💬 Ask me about anything, I am happy to help;
+- 🚀 Coding to achieve goals;
+- 🎯 Focused;
 - 📫 How to reach me: [@hiranferretibaccos](https://www.linkedin.com/in/hiran-ferreti-baccos/);
