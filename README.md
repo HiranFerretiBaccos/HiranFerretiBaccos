@@ -20,11 +20,11 @@
 </a>
 <br><br>
 
-About me:
+More about me:
 
 - 💻 I am currently working with HTML, CSS, JavaScript, TypeScript and ReactJS since 2021;
-- 📚 I’m currently learning Next.js and Node.js; 
+- 📚 I’m also currently learning Next.js and Node.js; 
 - 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: 🙂[@hiranferretibaccos](https://www.linkedin.com/in/hiran-ferreti-baccos/); 
 - 🚀 Coding to achieve goals;
 - 🎯 Focused;
-- 📫 How to reach me: [@hiranferretibaccos](https://www.linkedin.com/in/hiran-ferreti-baccos/);
