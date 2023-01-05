@@ -6,7 +6,7 @@
       Systems Analysis and Development Student <a target="_blank" href="https://www.unip.br/">Universidade Paulista (UNIP)</a>
       <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="26">
       </br>
-      Software Developer at EY (https://www.linkedin.com/company/ernstandyoung/about) <a target="_blank" href="#/">...</a>
+      Software Developer at EY (https://www.linkedin.com/company/ernstandyoung/about) <a target="_blank" href="#/"></a>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    </em>
 </p>
